@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Current Tab URL Extension",
+    "version": "1.0",
+    "description": "A simple extension to display the current tab's URL",
+    "permissions": [
+      "activeTab"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "tjekgreen.png"
+      }
+    },
+    "icons": {
+      "16": "tjekgreen.png"
+    }
+  }
+  
